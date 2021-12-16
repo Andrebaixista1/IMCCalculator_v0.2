@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable-v24/background_right_white.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36875" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable-v24/radiobutton_right_check.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable-v24/radiobutton_right_uncheckd.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/background_left_white.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/botao.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/botao_branco_inicial.xml" value="0.36875" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36875" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/logo.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/radiobutton_left_check.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/radiobutton_left_selector.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/radiobutton_left_uncheckd.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/radiobutton_right_selector.xml" value="0.3828125" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/drawable/teste_linha_branca.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/layout/activity_imcactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/layout/activity_necessidade_calorica.xml" value="0.4527736131934033" />
+        <entry key="..\:/Users/Administrador/Documents/Projects/IMCCalculatev02/app/src/main/res/layout/spinner_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC Calculate - v0.2</string>
+    <string name="calculadora_saudavel">Calculadora Saudavel</string>
+    <string name="sua_sa_de_primeiro">Sua saúde primeiro</string>
+    <string name="o_que_vamos_calcular_hoje">O que vamos calcular hoje ?</string>
+    <string name="indice_de_massa_corporal_imc">Indice de massa corporal (IMC)</string>
+    <string name="necessidades_cal_ricas_di_rias">Necessidades calóricas diárias</string>
+    <string name="todo">TODO</string>
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
